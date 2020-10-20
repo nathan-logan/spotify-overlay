@@ -1,0 +1,189 @@
+{
+  "timestamp": 1603205811622,
+  "context": {
+    "external_urls": {
+      "spotify": "https: //open.spotify.com/playlist/4XeuPW4abf4L48r0aolieL"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4XeuPW4abf4L48r0aolieL",
+    "type": "playlist",
+    "uri": "spotify:playlist:4XeuPW4abf4L48r0aolieL"
+  },
+  "progress_ms": 31393,
+  "item": {
+    "album": {
+      "album_type": "compilation",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
+          },
+          "href": "https://api.spotify.com/v1/artists/1aVud1rCHS8xrpDjI7zEUy",
+          "id": "1aVud1rCHS8xrpDjI7zEUy",
+          "name": "Alex Lloyd",
+          "type": "artist",
+          "uri": "spotify:artist:1aVud1rCHS8xrpDjI7zEUy"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AL",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "BY",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HR",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "KW",
+        "KZ",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MK",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "SA",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UA",
+        "US",
+        "UY",
+        "VN",
+        "XK",
+        "ZA"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0NlWxGZ1FFqI9qxjeKLiin"
+      },
+      "href": "https://api.spotify.com/v1/albums/0NlWxGZ1FFqI9qxjeKLiin",
+      "id": "0NlWxGZ1FFqI9qxjeKLiin",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27324ca4afd5fde51f4ebc23bc0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0224ca4afd5fde51f4ebc23bc0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485124ca4afd5fde51f4ebc23bc0",
+          "width": 64
+        }
+      ],
+      "name": "Amazing - The Best Of",
+      "release_date": "2006-01-01",
+      "release_date_precision": "day",
+      "total_tracks": 15,
+      "type": "album",
+      "uri": "spotify:album:0NlWxGZ1FFqI9qxjeKLiin"
+    },
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
+        },
+        "href": "https://api.spotify.com/v1/artists/1aVud1rCHS8xrpDjI7zEUy",
+        "id": "1aVud1rCHS8xrpDjI7zEUy",
+        "name": "Alex Lloyd",
+        "type": "artist",
+        "uri": "spotify:artist:1aVud1rCHS8xrpDjI7zEUy"
+      }
+    ],
+    "available_markets": [
+      "AU"
+    ],
+    "disc_number": 1,
+    "duration_ms": 202133,
+    "explicit": "False",
+    "external_ids": {
+      "isrc": "AUEM00100083"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/1dU1RZwl8B3IbkJ2Wfod5o"
+    },
+    "href": "https://api.spotify.com/v1/tracks/1dU1RZwl8B3IbkJ2Wfod5o",
+    "id": "1dU1RZwl8B3IbkJ2Wfod5o",
+    "is_local": "False",
+    "name": "Amazing",
+    "popularity": 31,
+    "preview_url": "https://p.scdn.co/mp3-preview/b48930a53ce60494c62140ef00f39b7abd25628a?cid=66788a5caa9c4e408c92827077e4e7e2",
+    "track_number": 1,
+    "type": "track",
+    "uri": "spotify:track:1dU1RZwl8B3IbkJ2Wfod5o"
+  },
+  "currently_playing_type": "track",
+  "actions": {
+    "disallows": {
+      "resuming": "True"
+    }
+  },
+  "is_playing": "True"
+}
